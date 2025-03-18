@@ -25,7 +25,7 @@ print('-'*10)
 
 # bool()
 print(bool(3))
-print(bool('Ashish'))
+print(bool('Utkarsh'))
 print(bool(3.14))
 print(bool(''))
 print(bool("False"))
